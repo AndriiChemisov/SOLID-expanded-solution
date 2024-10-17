@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\SOLID_sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\SOLID_sandbox.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\SOLID_sandbox.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\SOLID_sandbox.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\SOLID_sandbox.sourcelink.json
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\bin\Debug\net8.0\SOLID_sandbox.exe
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\bin\Debug\net8.0\SOLID_sandbox.deps.json
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\bin\Debug\net8.0\SOLID_sandbox.runtimeconfig.json
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\bin\Debug\net8.0\SOLID_sandbox.dll
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\bin\Debug\net8.0\SOLID_sandbox.pdb
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\SOLID_sandbox.dll
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\refint\SOLID_sandbox.dll
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\SOLID_sandbox.pdb
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\SOLID_sandbox.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\proga\C# course\SOLID_sandbox\obj\Debug\net8.0\ref\SOLID_sandbox.dll
